@@ -1,0 +1,18 @@
+{
+"sklls_1": "SDLC, STLC",
+"sklls_2": "HTTP",
+"sklls_3": "JSON, XML",
+"sklls_4": "API через Postman",
+"sklls_5": "Dev Tools",
+"sklls_6": "Мобильное тестирование",
+"sklls_7": "Сборка Android приложений на Android Studio",
+"sklls_8": "ADB (управление андройд девайсами)",
+"sklls_9": "Командная строка terminal",
+"sklls_10": "Основы bash скриптинг",
+"sklls_11": "Основы SQL",
+"sklls_12": "База данных Postgres",
+"sklls_13": "Нереляционная база данных Redis",
+"sklls_14": "Нагрузочное тестирование в Jmeter",
+"sklls_15": "Методология разработки Scrum",
+"sklls_16": "JavaScript"
+} 
